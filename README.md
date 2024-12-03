@@ -1,2 +1,3 @@
-# ARGB-Christmas-tree-with-Ardiuno
-In this lesson I'm going to teach how to decorate your Christmas tree using
+# ARGB-Christmas-Tree-With-Ardiuno
+In this lesson, I will teach how to decorate your Christmas tree using Ardiuno Board, WS2812b LED strip(600 LEDs), and power supply.
+
